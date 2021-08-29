@@ -20,6 +20,13 @@ header > h5 {
 i {
   font-size: 2rem;
   color: white;
+  margin: 0 7px;
+}
+
+#bloco-redes {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
 }
 
 /* .sidenav {
