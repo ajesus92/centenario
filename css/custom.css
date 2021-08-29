@@ -1,0 +1,48 @@
+@media only screen and (min-width: 993px) {
+    .container {
+      width: 90%;
+    }
+  }
+
+header {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: center;
+  padding: 10px auto;
+}
+
+header > h5 {
+  align-self: stretch;
+  margin-left: 20px;
+}
+
+i {
+  font-size: 2rem;
+  color: white;
+}
+
+/* .sidenav {
+    background: #9b4e06;
+}
+
+.sidenav li > a{
+    color: white;
+} */
+
+.slider .indicators .indicator-item.active {
+  background-color: #9b4e06;
+}
+
+.corbase {
+  background: #9b4e06;
+}
+
+span {
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.card-slider {
+  background-color: rgba(0,0,0,0.2);
+}
