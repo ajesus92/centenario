@@ -53,3 +53,7 @@ span {
 .card-slider {
   background-color: rgba(0,0,0,0.2);
 }
+
+#pix {
+  text-align: center;
+}
